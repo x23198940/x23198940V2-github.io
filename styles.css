@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(18, 61, 90);
+}
+button{
+    background-color: greenyellow;
+    color: black;
+    size: 100px;
+}
+p{
+    color: rgb(251, 255, 0);
+}
